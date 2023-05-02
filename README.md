@@ -1,4 +1,4 @@
-# data-mining---Matalot-
+# data-mining---Matala-2-pandas + Regular Expressions
 מטלה 2: pandas + Regular Expressions
 נתון הדאטה-סט בקובץ: matala2_cosmetics_2019-Nov.csv. 
 את הדאטה אפשר להוריד מכאן:
